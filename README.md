@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student at ESI 
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,git,java,html,css,tailwind,js,ts,react,nextjs,vscode,figma,ps,ai,pr,linux&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,git,java,html,css,bootstrap,tailwind,js,react,vscode,figma,ps,ai,pr,linux&theme=dark" alt="Tech Stack" />
 </div>
 
 ### 🌱 Currently Learning
