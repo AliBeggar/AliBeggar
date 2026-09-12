@@ -4,16 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Always+Learning+type+xi+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-Welcome to my GitHub profile! I'm a second-year Computer Science student at ESI Algiers and a passionate developer who enjoys building solving CTFs, learning new technologies.
+Welcome to my GitHub profile! I'm a third-year Computer Science student at ESI Algiers (1CS) and a passionate developer who enjoys Low-Level things and CyberSecurity stuff.
 
----
-
-## 🚀 About Me
-
-- 🎓 I'm an intermediate front-end developer and UI/UX designer
-- 🌱 Currently working on project 2CP
-
-<br clear="both">
 
 ---
 
@@ -35,14 +27,6 @@ Welcome to my GitHub profile! I'm a second-year Computer Science student at ESI 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliBeggar&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
-</div>
-
----
-
-## 📊 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliBeggar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
