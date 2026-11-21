@@ -1,10 +1,10 @@
 # Hi there, I'm BEGGAR SidAli (a.k.a Ali Beggar) 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Computer+architecture+is+my+way+to+live+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Learning+OS+architectures+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-Welcome to my GitHub profile! I'm a third-year Computer Science student at ESI Algiers (1CS) and a passionate developer who enjoys Low-Level things and CyberSecurity stuff.
+Welcome to my GitHub profile! I'm a third-year Computer Science student at ESI Algiers (1CS) who enjoys Low-Level things, OS implementations, CPU/GPU architectures and sometimes CyberSecurity stuff.
 
 
 ---
@@ -13,12 +13,6 @@ Welcome to my GitHub profile! I'm a third-year Computer Science student at ESI A
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,git,linux,java,html,css,tailwind,js,react,vscode,figma,ps,ai,pr&theme=dark" alt="Tech Stack" />
-</div>
-
-### 🌱 Currently Learning
-
-<div align="center" style="display:flex;justify-content:center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,python&theme=dark" alt="Currently Learning" />
 </div>
 
 ---
@@ -31,7 +25,7 @@ Welcome to my GitHub profile! I'm a third-year Computer Science student at ESI A
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sid-ali-beggar/">
